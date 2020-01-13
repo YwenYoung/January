@@ -23,5 +23,8 @@
     <ClCompile Include="GradeBook.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Fig07_17.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
