@@ -3,7 +3,7 @@
 using namespace std;
 
 void wages(int[]);			//函数原型function prototype
-void display(const int[]);	//函数原型function prototype
+void display(const int[]);	//函数原型function prototype，为什么这个函数必须要有const？？？
 
 int main()
 {
