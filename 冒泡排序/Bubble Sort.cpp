@@ -107,7 +107,7 @@ int main()
 			}
 			cout << setw(3) << c[comp];
 		}
-		cout << setw(3) << c[pass] << '\n';
+		cout << setw(3) << c[comp] << '\n';
 	}
 	cout << "\nData items in ascending order\n";
 
