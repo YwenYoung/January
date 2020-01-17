@@ -80,7 +80,7 @@ int main()
 	array<int, arraySize> c = { 6,4,2,8,10,12,37,45,68,89 };
 	int hold;
 	int numberOfComp = 0;
-	int comp;
+	int comp = 0;
 	bool swapCheck = true;
 
 	cout << "Data items in original order\n";
