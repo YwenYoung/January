@@ -19,5 +19,5 @@ int whatIsThis(const array<int, arraySize>&b, size_t size)
 	if (size == 1)
 		return b[0];
 	else
-		return b[size - 1] + whatIsThis(b, size - 1);
+		return b[size - 1] + whatIsThis(b, size - 1);	//ตÝน้
 }
