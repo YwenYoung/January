@@ -1,5 +1,6 @@
 #include <iostream>
 #include <iomanip>
+#include <array>
 using namespace std;
 int main()
 {
@@ -17,7 +18,7 @@ int main()
 			for (int j = i; j <= SIZE; j++)
 			{
 				if (j%i == 0 && j != i)
-					array[i] = 0;
+					array[j] = 0;
 			}
 		}
 	}
